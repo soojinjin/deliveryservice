@@ -24,7 +24,7 @@ spring boot를 사용해 사용자와 가맹점 서버를 나누어 배달 플�
 -docker에서 rabbitmq와 mysql이 활성화 되있어야함<br>
 -swaager에서 토큰을 받아 modheader에 authorization-token을 입력해야함
 <br>
-<img src="https://github.com/soojinjin/deliveryservice/assets/106157061/b025d270-fd7d-4cb3-8049-0dbe20bc447d">
+<img src="https://github.com/soojinjin/deliveryservice/assets/106157061/789fe86c-8296-4cd7-a00c-e7513a6747cf">
 <br>
 <img src="https://github.com/soojinjin/deliveryservice/assets/106157061/c305c9c3-b140-4ada-883b-3addef313ffa">
 <br>
